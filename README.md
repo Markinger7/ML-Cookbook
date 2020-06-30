@@ -1,2 +1,2 @@
 # ML-Cookbook
-Repo containing summaries to important tasks related to Machine Learning 
+Repo containing summaries to important methods related to Machine Learning 
