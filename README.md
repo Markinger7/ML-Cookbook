@@ -12,6 +12,9 @@ Repo containing summaries to important methods related to Machine Learning
 - Imbalanced Classification
   - How to enhance classification scores when dealing with imbalanced datasets 
     - Oversampling minority class using SMOTE and undersampling majority class using RandomUnderSampler
+    - Borderline SMOTE
+    - Borderline SMOTE SVM
+    - Adaptive Synthetic Sampling (ADASYN)
 - Outlier Detection
   - Testing differnet outlier detection algorithms:
     - Isolation Forest
