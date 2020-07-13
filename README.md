@@ -13,7 +13,7 @@ Repo containing summaries to important methods related to Machine Learning
   - How to enhance classification scores when dealing with imbalanced datasets 
     - Oversampling minority class using SMOTE and undersampling majority class using RandomUnderSampler
 - Outlier Detection
- - Testing differnet outlier detection algorithms:
+  - Testing differnet outlier detection algorithms:
     - Isolation Forest
     - Minimum Covariance Determinant
     - Local Outlier Factor
