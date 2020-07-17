@@ -21,4 +21,10 @@ Repo containing summaries to important methods related to Machine Learning
     - Minimum Covariance Determinant
     - Local Outlier Factor
     - One-Class SVM
+- Feature Extraction
+  - applied various transformations to the data and treated features like hyperparameters
+    - Scaling: MinMaxScaler, StandarScaler, RobustScaler
+    - Distribution transformers: QuantileTransformer, KBinsDiscretizer
+    - Remove linear dependencies: PCA, TruncatedSVD
+
     
