@@ -26,5 +26,6 @@ Repo containing summaries to important methods related to Machine Learning
     - Scaling: MinMaxScaler, StandarScaler, RobustScaler
     - Distribution transformers: QuantileTransformer, KBinsDiscretizer
     - Remove linear dependencies: PCA, TruncatedSVD
-
+- Association Analysis 
+  - used the arpiori algorithem to perform a market basket analysis
     
