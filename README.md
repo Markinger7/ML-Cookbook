@@ -4,6 +4,8 @@ Repo containing summaries to important methods related to Machine Learning
 ### Files
 - Ensamble Learning
   - exploring different ensemble learning techniques to enhance the predictive score of a ML-model
+  - advantages and disadvantages of ensemble learning
+    - Averaging
     - Hard /soft voting  
     - Bagging and Pasting
     - Random Forests
